@@ -1,0 +1,1 @@
+sudo chown abdullah /dev/kvm
